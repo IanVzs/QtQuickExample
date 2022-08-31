@@ -1,3 +1,4 @@
+# 哈哈哈 笑死，Qt Creator创建项目的时候选择CMake就可以自己生成了hhhhh
 cmake_minimum_required(VERSION 3.19 FATAL_ERROR)
 
 # Qt Custom config
